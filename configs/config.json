@@ -1,0 +1,8 @@
+{
+  "_comment1": "API/ID Settings",
+  "id": [],
+  "api_key": "",
+  "_comment2": "Debugging/Logging Settings",
+  "enable_debugging": 1,
+  "enable_logging": 1
+}

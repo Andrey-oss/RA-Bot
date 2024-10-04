@@ -1,0 +1,7 @@
+pytelegrambotapi
+speedtest-cli
+requests
+playsound
+psutil
+opencv-python
+pillow

@@ -1,0 +1,4 @@
+### 1.0.0-beta ###
+1. Project was created
+2. Added a lot of simple commands for remote accessing w/o bad intentions
+3. Added some settings/configs

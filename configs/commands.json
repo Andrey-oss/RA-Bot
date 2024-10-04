@@ -1,0 +1,78 @@
+{
+  "1: Base commands": {
+    "/uptime": {
+      "description": "Get system uptime",
+      "usage": "No arguments required"
+    },
+    "/usage": {
+      "description": "Get usage of system resources",
+      "usage": "No arguments required"
+    }
+  },
+  "2: System activity": {
+    "/poweroff": {
+      "description": "Power off the PC",
+      "usage": "No arguments required"
+    },
+    "/reboot": {
+      "description": "Reboot the PC",
+      "usage": "No arguments required"
+    }
+  },
+  "3: Networking": {
+    "/speedtest": {
+      "description": "Do a speedtest",
+      "usage": "No arguments required"
+    },
+    "/ip": {
+      "description": "Get IP address",
+      "usage": "No arguments required"
+    },
+    "/list_iface": {
+      "description": "List all network interfaces",
+      "usage": "No arguments required"
+    }
+  },
+  "4: Multimedia": {
+    "/cam": {
+      "description": "Take a screenshot from the webcam (if available)",
+      "usage": "No arguments required"
+    },
+    "/screenshot": {
+      "description": "Take a screenshot of the desktop",
+      "usage": "No arguments required"
+    },
+    "/play": {
+      "description": "Play audio file",
+      "usage": "Usage: /play <file_path>"
+    }
+  },
+  "5: Security/privacy": {
+    "/cam_off": {
+      "description": "Turn off the camera",
+      "usage": "No arguments required"
+    },
+    "/cam_on": {
+      "description": "Turn on the camera",
+      "usage": "No arguments required"
+    },
+    "/mute": {
+      "description": "Mute the sound volume",
+      "usage": "No arguments required"
+    },
+    "/unmute": {
+      "description": "Unmute the sound volume",
+      "usage": "No arguments required"
+    }
+  },
+  "6. File managing": {
+    "/download": {
+      "description": "Download file from PC",
+      "usage": "Usage: /download <file_path>"
+    },
+    "/delete": {
+      "description": "Delete file from PC",
+      "usage": "Usage: /delete <file_path>"
+    }
+  }
+}
